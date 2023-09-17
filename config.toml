@@ -23,6 +23,11 @@ paginate = 15
     # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
     mode = "dark" # "dark" or "auto"
 
+    # you can specify custom css path as `css/custom.css`.
+    customCSS = "css/custom.css"
+    # Custom CSS added to dark mode style.
+    customDarkCSS = "css/custom-dark.css"
+
 [[menu.main]]
 name = "Home"
 url = "/"
