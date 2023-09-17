@@ -1,7 +1,8 @@
 ---
 title: "VSeeFace をLinux で使用する"
 date: 2023-09-18T00:41:40+09:00
-draft: true
+draft: false
+tags: [tech, mocap]
 ---
 
 ## 目的
