@@ -1,6 +1,27 @@
 baseURL = "https://nilnull.tech/"
 title = "nilnull Tech Blog"
 theme = "ezhil"
+# Enable syntax highlighting.
+pygmentsstyle = "solarized-dark"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# Number of posts to show in recent posts list (Optional). Defaults to 10.
+paginate = 15
+
+[params]
+    # Content types which are included in home page recent posts list.
+    mainSections = ["posts"]
+
+    # Content types which are excludes Disqus comments.
+    disableDisqusTypes = ["page"]
+
+    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
+    featherIconsCDN = true
+
+    # Switch to dark mode or auto detect mode from OS (Optional).
+    # "dark" will set mode to dark and "auto" will switch to dark mode if OS is in dark mode.
+    mode = "dark" # "dark" or "auto"
 
 [[menu.main]]
 name = "Home"
@@ -34,3 +55,8 @@ url = "https://github.com/nilnu1l"
 name = "Twitter"
 icon = "twitter"
 url = "https://twitter.com/nilnull_Zs0I"
+
+[[params.social]]
+name = "Twitch"
+icon = "twitch"
+url = "https://www.twitch.tv/nilnull_n11nu11"
