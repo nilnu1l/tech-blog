@@ -28,6 +28,8 @@ paginate = 15
     # Custom CSS added to dark mode style.
     customDarkCSS = "css/custom-dark.css"
 
+    favicon = "icons/favicon.ico"
+
 [[menu.main]]
 name = "Home"
 url = "/"
