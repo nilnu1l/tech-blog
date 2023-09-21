@@ -7,7 +7,10 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
-paginate = 15
+paginate = 5
+
+# Number of characters to show in summary.
+summaryLength = 20
 
 [params]
     # Content types which are included in home page recent posts list.
