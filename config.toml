@@ -1,5 +1,5 @@
-baseURL = "https://nilnull.tech/"
-title = "nilnull Tech Blog"
+baseURL = "https://3kz.tech/"
+title = "3kz Tech Blog"
 theme = "ezhil"
 # Enable syntax highlighting.
 pygmentsstyle = "solarized-dark"
@@ -64,9 +64,9 @@ url = "https://github.com/nilnu1l"
 [[params.social]]
 name = "Twitter"
 icon = "twitter"
-url = "https://twitter.com/nilnull_Zs0I"
+url = "https://twitter.com/3kz_z5ol"
 
 [[params.social]]
 name = "Twitch"
 icon = "twitch"
-url = "https://www.twitch.tv/nilnull_n11nu11"
+url = "https://www.twitch.tv/3kz_z5ol"
