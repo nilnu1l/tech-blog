@@ -2,7 +2,7 @@
 title: "今年中に手を出したい本"
 date: 2023-09-25T22:09:53+09:00
 draft: false
-tags: ["book"]
+tags: [book]
 ---
 
 ## 目的
