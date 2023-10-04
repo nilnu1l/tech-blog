@@ -33,6 +33,8 @@ summaryLength = 20
 
     favicon = "icons/favicon.ico"
 
+    description = "3kz のテックブログ. もしくはスクラップブック. プログラミングネタなど技術ネタをメインにしていきます. Bitcoin やLightninig network にも触れられたらと考えてます."
+
 [[menu.main]]
 name = "Home"
 url = "/"
