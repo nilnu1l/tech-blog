@@ -10,7 +10,7 @@ pygmentscodefencesguesssyntax = true
 paginate = 5
 
 # Number of characters to show in summary.
-summaryLength = 20
+summaryLength = 10
 
 [params]
     # Content types which are included in home page recent posts list.
