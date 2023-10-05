@@ -2,7 +2,6 @@
 title: "今年中に手を出したい本"
 date: 2023-09-25T22:09:53+09:00
 draft: false
-description: "今年手を出したい技術本 の一覧"
 tags: [book]
 ---
 
