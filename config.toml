@@ -64,11 +64,16 @@ icon = "github"
 url = "https://github.com/nilnu1l"
 
 [[params.social]]
-name = "Twitter"
-icon = "twitter"
+name = "X"
+icon = "x"
 url = "https://twitter.com/3kz_z5ol"
 
 [[params.social]]
 name = "Twitch"
 icon = "twitch"
 url = "https://www.twitch.tv/3kz_z5ol"
+
+[[params.social]]
+name = "Nostr"
+icon = "globe"
+url = "https://nostr.com/npub132sk7jvvz99k56m8m3zyykkqcrl820dgq8zlvfdq20fnrc2kjr5s3zfq3c"
