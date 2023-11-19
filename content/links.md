@@ -8,5 +8,5 @@ type: "page"
 ## 3kz (ex nilnull)
 
 ## SNS Links
-* [![github](/images/squea-github.svg) Github](https://github.com/nilnu1l)
-* [![x](/images/squea-x-twitter.svg) Github](https://twitter.com/3kz_z5ol)
+* [![github](/images/square-github.svg) Github](https://github.com/nilnu1l)
+* [![x](/images/square-x-twitter.svg) Github](https://twitter.com/3kz_z5ol)
