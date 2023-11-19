@@ -15,3 +15,24 @@ h1 {
 .list ul li .title {
 	font-family: 'Noto Sans JP', sans-serif;
 }
+
+.profile-container {
+  display: flex; /* Flexbox を有効にする */
+  align-items: center; /* 子要素を中央揃えにする */
+  justify-content: center; /* 子要素を中央揃えにする */
+}
+
+.profile-image {
+  flex: 1; /* 画像とコンテンツのコンテナのサイズを同じにする */
+  padding: 20px; /* 余白を追加する */
+}
+
+.profile-image img {
+  width: 250px; /* 画像をコンテナの幅いっぱいに広げる */
+  height: auto; /* 画像をアスペクト比を保ったままで表示する */
+}
+
+.profile-content {
+  flex: 1; /* 画像とコンテンツのコンテナのサイズを同じにする */
+  padding: 20px; /* 余白を追加する */
+}
