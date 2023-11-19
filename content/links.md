@@ -11,4 +11,4 @@ type: "page"
 [![twitch](images/twitch.svg) Twitch](https://www.twitch.tv/3kz_z5ol)
 [![nostr](images/server-solid.svg) nostr](https://nostr.com/npub132sk7jvvz99k56m8m3zyykkqcrl820dgq8zlvfdq20fnrc2kjr5s3zfq3c)
 
-{{< link url="https://github.com/nilnu1l" text="Github" image="/images/square-github.svg" >}}
+{{< link url="https://github.com/nilnu1l" text="Github" image="https://imagedelivery.net/TzzMDnIynS-86GWMogqUcw/82b4a041-bb1c-45f1-b78f-789134145a00/public" >}}
