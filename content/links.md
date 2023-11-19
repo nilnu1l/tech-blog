@@ -13,10 +13,10 @@ type: "page"
     <p>ここに記事の要旨や本文を書きます。</p>
   </div>
 </div>
-# About
+<!-- # About
 {{< figure src="https://imagedelivery.net/TzzMDnIynS-86GWMogqUcw/95826390-b6c1-4dc8-1c39-a05303135900/public" width="250" class="profile_logo" >}}
 ## 3kz (ex nilnull)
 
-## SNS Links
+<!-- ## SNS Links
 * [![github](/images/sqkuare-github.svg) Github](https://github.com/nilnu1l)
-* [![x](/images/square-x-twitter.svg) Github](https://twitter.com/3kz_z5ol)
+* [![x](/images/square-x-twitter.svg) Github](https://twitter.com/3kz_z5ol) --> -->
