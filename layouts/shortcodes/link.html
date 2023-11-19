@@ -1,4 +1,5 @@
-<a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer" style="display: flex; align-items: center; text-decoration: none;">
-  <img src="/images/my-icon.svg" alt="My Icon" style="margin-right: 10px;">
+<!-- My Icon Image and Text Link ShortCode -->
+<a href="{{ .Get "url" }}" target="_blank" rel="noopener noreferrer" class="link-with-image">
+  <img src="{{ .Get "image" }}" alt="{{ .Get "imageName" }}">
   <span>{{ .Get "text" }}</span>
 </a>
